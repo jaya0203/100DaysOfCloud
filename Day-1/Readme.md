@@ -37,10 +37,10 @@ to create a new directory
 ------------------
 * By default every linux machine is created with 'root' user
 * user is an entity who will login into system
-* types of users in linux:- 
-  1.Super user like root- who holds all permissions to do any type of operation
-  3.System user like apache, jenkins etc. - typically associated with system applications like httpd, nginx etc.
-  4.Normal user - added manually by sysadmins by using useradd command.
+* types of users in linux:- \
+  1.**Super user** - like root who holds all permissions to do any type of operation\
+  2.**System user** - like apache, jenkins etc. typically associated with system applications like httpd, nginx etc.\
+  3.**Normal user** - added manually by sysadmins by using useradd command.
 * all users information is stored in /etc/passwd file
 
 
