@@ -35,7 +35,7 @@ to create a new directory
 
 **VI EDITOR**
 ------------
-* vi editor has different modes:-\
+* vi editor has different modes:-
   1. insert mode- where we can write content to our file
       **i** - where cursor remains constant and gets into insert mode
       **I** - where cursor moves beginning of the line and gets into insert mode
